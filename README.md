@@ -16,8 +16,8 @@ submit the repo, and claim your USDC if you place. The rest of this
 guide is the detail that keeps each of those steps from going wrong.
 
 > **Start here:** sign up with my referral link —
-> **[https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)** —
-> referral code `tvfbjxfd`. Using it costs you nothing and credits
+> **[https://make.fun/r/pwq9a1y9](https://make.fun/r/pwq9a1y9)** —
+> referral code `pwq9a1y9`. Using it costs you nothing and credits
 > your signup to this guide.
 
 ## What is make.fun?
@@ -75,8 +75,8 @@ to the code a visitor's browser first saw, and that first touch wins
 for 60 days — a later link does not replace it. So share your link
 early, before someone clicks anyone else's.
 
-My referral link is **[https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)**
-(code `tvfbjxfd`). If you write about make.fun yourself, you will get
+My referral link is **[https://make.fun/r/pwq9a1y9](https://make.fun/r/pwq9a1y9)**
+(code `pwq9a1y9`). If you write about make.fun yourself, you will get
 a link of your own the same way — find it on the Referrals tab of your
 profile, or at `GET /api/me/referrals`.
 
@@ -109,7 +109,7 @@ You can get all of this ready in about ten minutes:
 ## Step 1 — Create your account
 
 1. Go to [make.fun](https://make.fun) — or use my link,
-   [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd), so
+   [https://make.fun/r/pwq9a1y9](https://make.fun/r/pwq9a1y9), so
    your signup is credited to this guide.
 2. Sign in with your Solana wallet. Your wallet signs a message to
    prove it is yours; nothing is charged for signing in.
@@ -256,8 +256,8 @@ missing. Say what you were doing, what you tried, and what happened.
 
 - make.fun — [https://make.fun](https://make.fun)
 - Sign up with this guide's referral link —
-  [https://make.fun/r/tvfbjxfd](https://make.fun/r/tvfbjxfd)
-  (code `tvfbjxfd`)
+  [https://make.fun/r/pwq9a1y9](https://make.fun/r/pwq9a1y9)
+  (code `pwq9a1y9`)
 - Open bounties — [https://make.fun/feed.json](https://make.fun/feed.json)
 - This bounty — [https://make.fun/bounty/bring-the-humans-02](https://make.fun/bounty/bring-the-humans-02)
 
